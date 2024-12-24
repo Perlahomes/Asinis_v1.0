@@ -92,6 +92,14 @@ header p {
     border-radius: 8px;
 }
 
+#foodpic {
+
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
 footer {
     text-align: center;
     margin-top: 30px;
